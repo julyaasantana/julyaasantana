@@ -4,7 +4,7 @@
 
 **ADS • Cibersegurança • Blue Team**
 
-Estudante de Análise e Desenvolvimento de Sistemas, interessada em segurança da informação e no funcionamento de sistemas e redes.
+Estudante de Análise e Desenvolvimento de Sistemas, interessada em segurança da informação.
 
 </div>
 
@@ -26,9 +26,5 @@ Este espaço reúne meus projetos, atividades acadêmicas, laboratórios e apren
 - **Web:** HTML e CSS.
 - **Ferramentas:** Git, GitHub e Linux.
 
-### Projetos em destaque
-
-- [SOC-Labs](https://github.com/julyaasantana/soc-labs) — estudos e práticas de segurança da informação.
-- [Jogo da Velha](https://github.com/julyaasantana/jogo-da-velha) — projeto desenvolvido com HTML, CSS e JavaScript.
 
 
